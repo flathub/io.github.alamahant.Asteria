@@ -21,4 +21,5 @@ modules:
       - type: git
         url: https://github.com/aloistr/swisseph.git
         dest: swisseph_src
+        branch: master
 
