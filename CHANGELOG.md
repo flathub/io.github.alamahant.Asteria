@@ -1,4 +1,4 @@
-# Changelog
+Changelog
 
 ## Version 2.0.1 (2025-06-06)
 ### Improvements
@@ -47,6 +47,4 @@
 - Aspect analysis
 - AI-powered interpretations
 - Transit calculations
-
-
 
