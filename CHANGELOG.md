@@ -1,6 +1,6 @@
 # Changelog
 
-## Version 2.0.1 (2025-06-05)
+## Version 2.0.1 (2025-06-06)
 ### Improvements
 - Changed degree display format from 0-360° decimal system to traditional in-sign degrees with minutes for improved astrological readability (e.g., 285.5° → 15°30' Capricorn)
 - Only House display shows both formats for reference
