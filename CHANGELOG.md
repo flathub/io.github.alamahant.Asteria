@@ -1,6 +1,7 @@
 # Changelog
 
 ## Version 2.1.2 (2025-10-29) – Polish & Compatibility Update
+NOTE:Performed a rebuild in order to correct an mistral ai's model name from mistral-medium-atest to mistral-medium
 
 ### Platform & Compatibility
 - **Updated KDE Runtime**: Upgraded to KDE Platform 6.9 for enhanced stability and performance
