@@ -1,7 +1,18 @@
 # Changelog
 
+## Version 2.1.3 (2026-01-02) – Data Organization Update
+
+### Data Management
+- **Dedicated Documents Directory**: All charts are now saved and loaded from `~/Documents/Asteria` for improved accessibility and organization
+- **Streamlined File Access**: Simplified chart management through standard documents location
+
+### User Experience
+- **Enhanced Accessibility**: More intuitive access to charts without navigating hidden directories
+
+---
+
+
 ## Version 2.1.2 (2025-10-29) – Polish & Compatibility Update
-NOTE:Performed a rebuild in order to correct an mistral ai's model name from mistral-medium-atest to mistral-medium
 
 ### Platform & Compatibility
 - **Updated KDE Runtime**: Upgraded to KDE Platform 6.9 for enhanced stability and performance
