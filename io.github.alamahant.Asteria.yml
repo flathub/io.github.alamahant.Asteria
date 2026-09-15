@@ -19,8 +19,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/alamahant/Asteria.git
-        tag: v2.4.8
-        commit: aa467f479a03590c61f0b1b95524a022cdb294bd
+        tag: v2.4.9
+        commit: 50dc0a4424afa70bf2d9f31343842e56dbe34796
       - type: git
         url: https://github.com/aloistr/swisseph.git
         dest: swisseph_src
